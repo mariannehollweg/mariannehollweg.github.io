@@ -1,0 +1,52 @@
+# Instagram-Cloud-Poster (Marianne Hollweg + Hema Lotfeld) - postet ohne eingeschalteten PC.
+# Code und verschluesselte Warteschlange liegen im Zweig "planer"; gepflegt von
+# C:\Buchprojekte\_Allgemein\Werkzeuge\instagram_cloud (cloud_sync.py laedt hoch, einrichten.py legt an).
+name: Instagram Planer
+
+on:
+  schedule:
+    - cron: "7,22,37,52 5-21 * * *"   # alle 15 min, 06-23 Uhr Winterzeit / 07-24 Uhr Sommerzeit
+    - cron: "17 1 * * *"              # naechtlich: Zweig planer eindampfen
+  workflow_dispatch:
+    inputs:
+      modus:
+        description: "normal oder probe"
+        default: "normal"
+
+concurrency:
+  group: instagram-planer
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  posten:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: planer
+          sparse-checkout: code
+      - name: PyNaCl (fuer Token-Erneuerung)
+        if: github.event.schedule != '17 1 * * *'
+        run: pip install --quiet pynacl
+      - name: Posten
+        if: github.event.schedule != '17 1 * * *'
+        env:
+          IG_TOKEN_MARIANNE: ${{ secrets.IG_TOKEN_MARIANNE }}
+          IG_USER_ID_MARIANNE: ${{ secrets.IG_USER_ID_MARIANNE }}
+          IG_TOKEN_HEMA: ${{ secrets.IG_TOKEN_HEMA }}
+          IG_USER_ID_HEMA: ${{ secrets.IG_USER_ID_HEMA }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+          PLANER_SCHLUESSEL: ${{ secrets.PLANER_SCHLUESSEL }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python3 code/cloud_poster.py ${{ inputs.modus == 'probe' && '--probe' || '' }}
+      - name: Aufraeumen
+        if: github.event.schedule == '17 1 * * *'
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+          PLANER_SCHLUESSEL: ${{ secrets.PLANER_SCHLUESSEL }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python3 code/cloud_poster.py --aufraeumen
