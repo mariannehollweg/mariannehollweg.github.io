@@ -23,7 +23,7 @@ permissions:
 jobs:
   posten:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
         with:
@@ -42,7 +42,7 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
           PLANER_SCHLUESSEL: ${{ secrets.PLANER_SCHLUESSEL }}
           GITHUB_REPOSITORY: ${{ github.repository }}
-        run: python3 code/cloud_poster.py ${{ inputs.modus == 'probe' && '--probe' || '' }}
+        run: python3 code/cloud_poster.py ${{ inputs.modus == 'probe' && '--probe' || '--dauer 330' }}
       - name: Aufraeumen
         if: github.event.schedule == '17 1 * * *'
         env:
