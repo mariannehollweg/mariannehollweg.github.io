@@ -1,0 +1,57 @@
+{
+ "2026-11-02_raetsel_S4_alibi": {
+  "status": "veroeffentlicht",
+  "typ": "REELS",
+  "plan_nr": "S4",
+  "quelle": "S4_alibi_kamin_dach",
+  "media_id": "18110719121223872",
+  "permalink": "https://www.instagram.com/reel/DfP8AJEghzb/",
+  "zeit": "2026-11-02T18:21:16+0000",
+  "erfasst": "2026-11-02T19:21:28"
+ },
+ "2026-11-02_raetsel_S4b_alibi_neu": {
+  "status": "veroeffentlicht",
+  "typ": "REELS",
+  "plan_nr": "S4",
+  "quelle": "S4_alibi_kamin_dach_neuer_hook",
+  "media_id": "18201799621383826",
+  "permalink": "https://www.instagram.com/reel/DfQFosoiNKe/",
+  "zeit": "2026-11-02T19:45:49+0000",
+  "erfasst": "2026-11-02T20:46:01"
+ },
+ "2026-11-04_raetsel_R6": {
+  "status": "veroeffentlicht",
+  "typ": "REELS",
+  "plan_nr": "R6",
+  "quelle": "R6_unterschiede",
+  "media_id": "18079771220729262",
+  "permalink": "https://www.instagram.com/reel/DfVFfOdD05I/",
+  "zeit": "2026-11-04T18:20:24+0000",
+  "erfasst": "2026-11-04T19:20:32"
+ },
+ "2026-11-05_ruhig_F4_strich_fuer_strich": {
+  "status": "veroeffentlicht",
+  "typ": "REELS",
+  "plan_nr": "F4",
+  "quelle": "F4_strich_fuer_strich",
+  "media_id": "18110693810625738",
+  "permalink": "https://www.instagram.com/reel/DfWzQusgOVh/",
+  "zeit": "2026-11-05T10:19:36+0000",
+  "erfasst": "2026-11-05T11:19:48"
+ },
+ "2026-11-05_kulissen_K1_wie_entsteht_ein_fall": {
+  "status": "veroeffentlicht",
+  "typ": "REELS",
+  "plan_nr": "K1",
+  "quelle": "K1_wie_entsteht_ein_fall",
+  "media_id": "18111382960915882",
+  "permalink": "https://www.instagram.com/reel/DfXqXUuiFmB/",
+  "zeit": "2026-11-05T18:21:05+0000",
+  "erfasst": "2026-11-05T19:21:16"
+ },
+ "2026-11-06_raetsel_R5": {
+  "status": "fehler",
+  "grund": "Medium nach 10 Minuten nicht erreichbar: https://mariannehollweg.github.io/medien/hema/2026-11-06_raetsel_R5/cover.jpg",
+  "erfasst": "2026-11-06T20:43:01"
+ }
+}
