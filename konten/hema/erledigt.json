@@ -53,5 +53,15 @@
   "status": "fehler",
   "grund": "Medium nach 10 Minuten nicht erreichbar: https://mariannehollweg.github.io/medien/hema/2026-11-06_raetsel_R5/cover.jpg",
   "erfasst": "2026-11-06T20:43:01"
+ },
+ "2026-11-07_raetsel_R13_zahnraeder": {
+  "status": "veroeffentlicht",
+  "typ": "REELS",
+  "plan_nr": "R13",
+  "quelle": "R13_zahnraeder",
+  "media_id": "18195231802397659",
+  "permalink": "https://www.instagram.com/reel/Dfb815zDdDB/",
+  "zeit": "2026-11-07T10:19:33+0000",
+  "erfasst": "2026-11-07T11:19:45"
  }
 }
