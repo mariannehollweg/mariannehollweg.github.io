@@ -21,3 +21,6 @@
 2026-11-06 20:27:51  FEHLER 2026-11-06_raetsel_R5 (Versuch 5): Medium nach 10 Minuten nicht erreichbar: https://mariannehollweg.github.io/medien/hema/2026-11-06_raetsel_R5/cover.jpg
 2026-11-06 20:43:01  FEHLER 2026-11-06_raetsel_R5 (Versuch 6): Medium nach 10 Minuten nicht erreichbar: https://mariannehollweg.github.io/medien/hema/2026-11-06_raetsel_R5/cover.jpg
 2026-11-06 20:43:09  AUFGEGEBEN 2026-11-06_raetsel_R5 nach 6 Fehlversuchen -> PC verschiebt nach warteschlange_fehler
+2026-11-07 11:17:38  Token erneuert, gueltig noch ca. 59 Tage
+2026-11-07 11:19:50  VEROEFFENTLICHT 2026-11-07_raetsel_R13_zahnraeder REELS -> https://www.instagram.com/reel/Dfb815zDdDB/
+2026-11-07 11:19:50  Loesung fuer 2026-11-07_raetsel_R13_zahnraeder wird ab 08.11. 07:19 als Kommentar gepostet
