@@ -1,0 +1,44 @@
+2026-11-02 19:21:33  VEROEFFENTLICHT 2026-11-02_raetsel_S4_alibi REELS -> https://www.instagram.com/reel/DfP8AJEghzb/
+2026-11-02 19:21:33  Loesung fuer 2026-11-02_raetsel_S4_alibi wird ab 03.11. 15:21 als Kommentar gepostet
+2026-11-02 20:46:06  VEROEFFENTLICHT 2026-11-02_raetsel_S4b_alibi_neu REELS -> https://www.instagram.com/reel/DfQFosoiNKe/
+2026-11-02 20:46:06  Loesung fuer 2026-11-02_raetsel_S4b_alibi_neu wird ab 03.11. 16:46 als Kommentar gepostet
+2026-11-03 15:21:40  WARNUNG Loesung 2026-11-02_raetsel_S4_alibi nicht gepostet (Versuch 1): HTTP 400 {'message': "Unsupported post request. Object with ID '18110719121223872' does not exist, cannot be loaded due to missing permissions, or does not support this operation", 'type': 'IGApiException', 'code': 100, 'error_subcode': 33, 'fbtrace_id': 'AmUaj_XRg8PPeqFnp4rwsk5'}
+2026-11-03 15:26:51  WARNUNG Loesung 2026-11-02_raetsel_S4_alibi nicht gepostet (Versuch 2): HTTP 400 {'message': "Unsupported post request. Object with ID '18110719121223872' does not exist, cannot be loaded due to missing permissions, or does not support this operation", 'type': 'IGApiException', 'code': 100, 'error_subcode': 33, 'fbtrace_id': 'Ae8GIOqEgEMPdjYFiloXjiJ'}
+2026-11-03 15:32:03  WARNUNG Loesung 2026-11-02_raetsel_S4_alibi nicht gepostet (Versuch 3): HTTP 400 {'message': "Unsupported post request. Object with ID '18110719121223872' does not exist, cannot be loaded due to missing permissions, or does not support this operation", 'type': 'IGApiException', 'code': 100, 'error_subcode': 33, 'fbtrace_id': 'ARykgPIrahzCSlh_Uaj_pfu'}
+2026-11-03 15:37:13  WARNUNG Loesung 2026-11-02_raetsel_S4_alibi nicht gepostet (Versuch 4): HTTP 400 {'message': "Unsupported post request. Object with ID '18110719121223872' does not exist, cannot be loaded due to missing permissions, or does not support this operation", 'type': 'IGApiException', 'code': 100, 'error_subcode': 33, 'fbtrace_id': 'AZNay_Slg2FUCK9k-cE-cbm'}
+2026-11-03 15:42:23  WARNUNG Loesung 2026-11-02_raetsel_S4_alibi nicht gepostet (Versuch 5): HTTP 400 {'message': "Unsupported post request. Object with ID '18110719121223872' does not exist, cannot be loaded due to missing permissions, or does not support this operation", 'type': 'IGApiException', 'code': 100, 'error_subcode': 33, 'fbtrace_id': 'AL4atuuWES9-ht7Dcf5Bth2'}
+2026-11-03 15:47:34  WARNUNG Loesung 2026-11-02_raetsel_S4_alibi nicht gepostet (Versuch 6): HTTP 400 {'message': "Unsupported post request. Object with ID '18110719121223872' does not exist, cannot be loaded due to missing permissions, or does not support this operation", 'type': 'IGApiException', 'code': 100, 'error_subcode': 33, 'fbtrace_id': 'AnzzFofI7-ifKYxOK_B-Dhp'}
+2026-11-03 16:48:39  LOESUNG gepostet 2026-11-02_raetsel_S4b_alibi_neu (Kommentar 18162692833498080)
+2026-11-04 19:20:37  VEROEFFENTLICHT 2026-11-04_raetsel_R6 REELS -> https://www.instagram.com/reel/DfVFfOdD05I/
+2026-11-04 19:20:37  Loesung fuer 2026-11-04_raetsel_R6 wird ab 05.11. 15:20 als Kommentar gepostet
+2026-11-05 11:19:53  VEROEFFENTLICHT 2026-11-05_ruhig_F4_strich_fuer_strich REELS -> https://www.instagram.com/reel/DfWzQusgOVh/
+2026-11-05 15:23:00  LOESUNG gepostet 2026-11-04_raetsel_R6 (Kommentar 18017963324910455)
+2026-11-05 19:21:20  VEROEFFENTLICHT 2026-11-05_kulissen_K1_wie_entsteht_ein_fall REELS -> https://www.instagram.com/reel/DfXqXUuiFmB/
+2026-11-06 19:27:03  FEHLER 2026-11-06_raetsel_R5 (Versuch 1): Medium nach 10 Minuten nicht erreichbar: https://mariannehollweg.github.io/medien/hema/2026-11-06_raetsel_R5/cover.jpg
+2026-11-06 19:42:16  FEHLER 2026-11-06_raetsel_R5 (Versuch 2): Medium nach 10 Minuten nicht erreichbar: https://mariannehollweg.github.io/medien/hema/2026-11-06_raetsel_R5/cover.jpg
+2026-11-06 19:57:27  FEHLER 2026-11-06_raetsel_R5 (Versuch 3): Medium nach 10 Minuten nicht erreichbar: https://mariannehollweg.github.io/medien/hema/2026-11-06_raetsel_R5/cover.jpg
+2026-11-06 20:12:38  FEHLER 2026-11-06_raetsel_R5 (Versuch 4): Medium nach 10 Minuten nicht erreichbar: https://mariannehollweg.github.io/medien/hema/2026-11-06_raetsel_R5/cover.jpg
+2026-11-06 20:27:51  FEHLER 2026-11-06_raetsel_R5 (Versuch 5): Medium nach 10 Minuten nicht erreichbar: https://mariannehollweg.github.io/medien/hema/2026-11-06_raetsel_R5/cover.jpg
+2026-11-06 20:43:01  FEHLER 2026-11-06_raetsel_R5 (Versuch 6): Medium nach 10 Minuten nicht erreichbar: https://mariannehollweg.github.io/medien/hema/2026-11-06_raetsel_R5/cover.jpg
+2026-11-06 20:43:09  AUFGEGEBEN 2026-11-06_raetsel_R5 nach 6 Fehlversuchen -> PC verschiebt nach warteschlange_fehler
+2026-11-07 11:17:38  Token erneuert, gueltig noch ca. 59 Tage
+2026-11-07 11:19:50  VEROEFFENTLICHT 2026-11-07_raetsel_R13_zahnraeder REELS -> https://www.instagram.com/reel/Dfb815zDdDB/
+2026-11-07 11:19:50  Loesung fuer 2026-11-07_raetsel_R13_zahnraeder wird ab 08.11. 07:19 als Kommentar gepostet
+2026-11-08 07:22:35  LOESUNG gepostet 2026-11-07_raetsel_R13_zahnraeder (Kommentar 18455702146127478)
+2026-11-08 15:04:22  VEROEFFENTLICHT 2026-11-08_gratisfall_3 REELS -> https://www.instagram.com/reel/Dfe7VhfiVk7/
+2026-11-08 19:19:09  VEROEFFENTLICHT 2026-11-08_aufloesung_R13A_zahnraeder REELS -> https://www.instagram.com/reel/DffYgJGk2tf/
+2026-11-09 19:29:28  FEHLER 2026-11-09_raetsel_R10 (Versuch 1): Medium nach 10 Minuten nicht erreichbar: https://mariannehollweg.github.io/medien/hema/2026-11-09_raetsel_R10/cover.jpg
+2026-11-09 19:44:42  FEHLER 2026-11-09_raetsel_R10 (Versuch 2): Medium nach 10 Minuten nicht erreichbar: https://mariannehollweg.github.io/medien/hema/2026-11-09_raetsel_R10/cover.jpg
+2026-11-09 19:59:55  FEHLER 2026-11-09_raetsel_R10 (Versuch 3): Medium nach 10 Minuten nicht erreichbar: https://mariannehollweg.github.io/medien/hema/2026-11-09_raetsel_R10/cover.jpg
+2026-11-09 20:15:11  FEHLER 2026-11-09_raetsel_R10 (Versuch 4): Medium nach 10 Minuten nicht erreichbar: https://mariannehollweg.github.io/medien/hema/2026-11-09_raetsel_R10/cover.jpg
+2026-11-09 20:30:24  FEHLER 2026-11-09_raetsel_R10 (Versuch 5): Medium nach 10 Minuten nicht erreichbar: https://mariannehollweg.github.io/medien/hema/2026-11-09_raetsel_R10/cover.jpg
+2026-11-09 20:45:38  FEHLER 2026-11-09_raetsel_R10 (Versuch 6): Medium nach 10 Minuten nicht erreichbar: https://mariannehollweg.github.io/medien/hema/2026-11-09_raetsel_R10/cover.jpg
+2026-11-09 20:45:46  AUFGEGEBEN 2026-11-09_raetsel_R10 nach 6 Fehlversuchen -> PC verschiebt nach warteschlange_fehler
+2026-11-10 19:22:00  VEROEFFENTLICHT 2026-11-10_raetsel_R10b_villa REELS -> https://www.instagram.com/reel/DfkibIxGU9h/
+2026-11-10 19:22:00  Loesung fuer 2026-11-10_raetsel_R10b_villa wird ab 11.11. 15:22 als Kommentar gepostet
+2026-11-11 15:22:56  LOESUNG gepostet 2026-11-10_raetsel_R10b_villa (Kommentar 18128898706896494)
+2026-11-11 19:18:58  VEROEFFENTLICHT 2026-11-11_kulissen_D1s1_zeilenbrueck_teil1 REELS -> https://www.instagram.com/reel/DfnG3o-jhRD/
+2026-11-12 19:18:36  VEROEFFENTLICHT 2026-11-12_raetsel_R5_wasser REELS -> https://www.instagram.com/reel/Dfprnf-iOay/
+2026-11-12 19:18:36  Loesung fuer 2026-11-12_raetsel_R5_wasser wird ab 13.11. 15:18 als Kommentar gepostet
+2026-11-13 15:20:10  LOESUNG gepostet 2026-11-12_raetsel_R5_wasser (Kommentar 18086707514703627)
+2026-11-13 19:21:25  VEROEFFENTLICHT 2026-11-13_figur_S5_freitag13 REELS -> https://www.instagram.com/reel/DfsQtsmjh6p/
