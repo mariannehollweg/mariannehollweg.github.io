@@ -36,3 +36,6 @@
 2026-11-24 18:07:40  STORY 2026-11-24 veroeffentlicht (media_id 17991269733080786)
 2026-11-26 18:06:42  VEROEFFENTLICHT 2026-11-26 CAROUSEL -> https://www.instagram.com/p/DgNmkpTFSmx/
 2026-11-26 18:07:40  STORY 2026-11-26 veroeffentlicht (media_id 18083291027734729)
+2026-11-28 18:04:19  Token erneuert, gueltig noch ca. 60 Tage
+2026-11-28 18:08:50  VEROEFFENTLICHT 2026-11-28 CAROUSEL -> https://www.instagram.com/p/DgSwZ8dFFPY/
+2026-11-28 18:09:48  STORY 2026-11-28 veroeffentlicht (media_id 17959260960300025)
